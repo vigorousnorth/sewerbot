@@ -1,0 +1,25 @@
+{
+  "name": "sewerbot",
+  "version": "1.0.0",
+  "description": "A twitter bot to announce likely sewer overflow events in Portland, Maine",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "portland_maine_sewerbot"
+  },
+  "keywords": [
+    "Portland Press Herald",
+    "Maine",
+    "sewers",
+    "water quality",
+    "twitter"
+  ],
+  "author": "Christian MilNeil",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}

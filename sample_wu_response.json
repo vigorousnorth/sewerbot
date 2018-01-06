@@ -1,0 +1,415 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "geolookup": 1
+  ,
+  "conditions": 1
+  }
+	}
+		,	"location": {
+		"type":"CITY",
+		"country":"US",
+		"country_iso3166":"US",
+		"country_name":"USA",
+		"state":"ME",
+		"city":"Portland",
+		"tz_short":"EST",
+		"tz_long":"America/New_York",
+		"lat":"43.65999985",
+		"lon":"-70.26000214",
+		"zip":"04101",
+		"magic":"1",
+		"wmo":"99999",
+		"l":"/q/zmw:04101.1.99999",
+		"requesturl":"US/ME/Portland.html",
+		"wuiurl":"https://www.wunderground.com/US/ME/Portland.html",
+		"nearby_weather_stations": {
+		"airport": {
+		"station": [
+		{ "city":"Portland", "state":"ME", "country":"US", "icao":"KPWM", "lat":"43.65000153", "lon":"-70.30999756" }
+		,{ "city":"", "state":"", "country":"", "icao":"", "lat":"", "lon":"" }
+		,{ "city":"Auburn-Lewiston", "state":"ME", "country":"US", "icao":"KLEW", "lat":"44.04999924", "lon":"-70.27999878" }
+		,{ "city":"Sanford", "state":"ME", "country":"US", "icao":"KSFM", "lat":"43.38999939", "lon":"-70.70999908" }
+		]
+		}
+		,
+		"pws": {
+		"station": [
+		{
+		"neighborhood":"Portland",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL45",
+		"lat":43.658077,
+		"lon":-70.253799,
+		"distance_km":0,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"Munjoy Hill",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL23",
+		"lat":43.668991,
+		"lon":-70.249474,
+		"distance_km":1,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"MMC",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL15",
+		"lat":43.653820,
+		"lon":-70.275665,
+		"distance_km":1,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"Salem Street",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL21",
+		"lat":43.646149,
+		"lon":-70.264824,
+		"distance_km":1,
+		"distance_mi":0
+		},
+		{
+		"neighborhood":"MITA / Maine Yacht Center",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL44",
+		"lat":43.679344,
+		"lon":-70.252510,
+		"distance_km":2,
+		"distance_mi":1
+		},
+		{
+		"neighborhood":"Florence Street",
+		"city":"South Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMESOUTH32",
+		"lat":43.631874,
+		"lon":-70.236656,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Deering Center",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL13",
+		"lat":43.678001,
+		"lon":-70.301003,
+		"distance_km":3,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Mountainview Park",
+		"city":"Cape Elizabeth",
+		"state":"ME",
+		"country":"US",
+		"id":"KMECAPEE12",
+		"lat":43.630581,
+		"lon":-70.230896,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"CUrchin",
+		"city":"Cape Elizabeth",
+		"state":"ME",
+		"country":"US",
+		"id":"KMECAPEE9",
+		"lat":43.616295,
+		"lon":-70.260231,
+		"distance_km":4,
+		"distance_mi":2
+		},
+		{
+		"neighborhood":"Peaks Island",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL30",
+		"lat":43.654877,
+		"lon":-70.194931,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Observation Tower",
+		"city":"Cushing\u0027s Island",
+		"state":"ME",
+		"country":"US",
+		"id":"KMECUSHI1",
+		"lat":43.643929,
+		"lon":-70.194183,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"South Portland",
+		"city":"Broadview Park",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEBROAD2",
+		"lat":43.611767,
+		"lon":-70.280548,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Stonebridge",
+		"city":"Peaks Island",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPEAKS2",
+		"lat":43.666752,
+		"lon":-70.186371,
+		"distance_km":5,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Cape Cottage",
+		"city":"Cape Elizabeth",
+		"state":"ME",
+		"country":"US",
+		"id":"KMECAPEE7",
+		"lat":43.616455,
+		"lon":-70.211319,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"North Deering",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL25",
+		"lat":43.712280,
+		"lon":-70.289169,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"North Deering",
+		"city":"Portland",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEPORTL19",
+		"lat":43.712292,
+		"lon":-70.289207,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Falmouth WWTP",
+		"city":"Falmouth",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEFALMO5",
+		"lat":43.715977,
+		"lon":-70.240601,
+		"distance_km":6,
+		"distance_mi":3
+		},
+		{
+		"neighborhood":"Blue Spruce Farm",
+		"city":"Westbrook",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEWESTB20",
+		"lat":43.664501,
+		"lon":-70.362541,
+		"distance_km":8,
+		"distance_mi":4
+		},
+		{
+		"neighborhood":"",
+		"city":"Long Island",
+		"state":"ME",
+		"country":"US",
+		"id":"KMELONGI2",
+		"lat":43.684853,
+		"lon":-70.162170,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Nutter Way",
+		"city":"Scarborough",
+		"state":"ME",
+		"country":"US",
+		"id":"KMESCARB21",
+		"lat":43.587936,
+		"lon":-70.295135,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Royal corner",
+		"city":"Westbrook",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEWESTB5",
+		"lat":43.683056,
+		"lon":-70.363815,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Near Cumberland & Bridge Sts",
+		"city":"Westbrook",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEWESTB2",
+		"lat":43.688622,
+		"lon":-70.362122,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Webster Street",
+		"city":"Westbrook",
+		"state":"ME",
+		"country":"US",
+		"id":"KMEWESTB19",
+		"lat":43.688404,
+		"lon":-70.363693,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Bulldog",
+		"city":"Cape Elizabeth",
+		"state":"ME",
+		"country":"US",
+		"id":"KMECAPEE4",
+		"lat":43.582741,
+		"lon":-70.229034,
+		"distance_km":8,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Alewives Brook",
+		"city":"Cape Elizabeth",
+		"state":"ME",
+		"country":"US",
+		"id":"KMECAPEE1",
+		"lat":43.584190,
+		"lon":-70.220161,
+		"distance_km":9,
+		"distance_mi":5
+		},
+		{
+		"neighborhood":"Pleasant Pond",
+		"city":"Scarborough",
+		"state":"ME",
+		"country":"US",
+		"id":"KMESCARB27",
+		"lat":43.581429,
+		"lon":-70.293701,
+		"distance_km":9,
+		"distance_mi":5
+		}
+		]
+		}
+		}
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Portland, ME",
+		"city":"Portland",
+		"state":"ME",
+		"state_name":"Maine",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"04101",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"43.65999985",
+		"longitude":"-70.26000214",
+		"elevation":"4.0"
+		},
+		"observation_location": {
+		"full":"Munjoy Hill, Portland, Maine",
+		"city":"Munjoy Hill, Portland",
+		"state":"Maine",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"43.668991",
+		"longitude":"-70.249474",
+		"elevation":"151 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KMEPORTL23",
+		"observation_time":"Last Updated on November 11, 9:50 PM EST",
+		"observation_time_rfc822":"Sat, 11 Nov 2017 21:50:28 -0500",
+		"observation_epoch":"1510455028",
+		"local_time_rfc822":"Sat, 11 Nov 2017 21:50:35 -0500",
+		"local_epoch":"1510455035",
+		"local_tz_short":"EST",
+		"local_tz_long":"America/New_York",
+		"local_tz_offset":"-0500",
+		"weather":"Clear",
+		"temperature_string":"28.8 F (-1.8 C)",
+		"temp_f":28.8,
+		"temp_c":-1.8,
+		"relative_humidity":"51%",
+		"wind_string":"From the ESE at 1.0 MPH",
+		"wind_dir":"ESE",
+		"wind_degrees":113,
+		"wind_mph":1.0,
+		"wind_gust_mph":0,
+		"wind_kph":1.6,
+		"wind_gust_kph":0,
+		"pressure_mb":"1034",
+		"pressure_in":"30.53",
+		"pressure_trend":"+",
+		"dewpoint_string":"13 F (-11 C)",
+		"dewpoint_f":13,
+		"dewpoint_c":-11,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"29 F (-2 C)",
+		"windchill_f":"29",
+		"windchill_c":"-2",
+		"feelslike_string":"29 F (-2 C)",
+		"feelslike_f":"29",
+		"feelslike_c":"-2",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"--",
+		"UV":"0","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"forecast_url":"http://www.wunderground.com/US/ME/Portland.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KMEPORTL23",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.668991,-70.249474",
+		"nowcast":""
+	}
+}
